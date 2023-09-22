@@ -1,0 +1,2 @@
+# setup_pyenv_windows
+Windows11にてPyenvをセットアップするためのスクリプト。
